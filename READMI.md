@@ -14,3 +14,4 @@ Rama bugfix-precios: Si descubres que un celular tiene un precio mal puesto, cre
 
 ¿Cómo las van a usar?
 El proceso técnico será sencillo: cuando decidan crear el chatbot, ejecutarán un comando para "saltar" a una rama nueva. Programarán allí y harán pruebas constantes. Solo cuando el chatbot responda correctamente y no rompa el diseño de la página, harán un Merge, que es básicamente fusionar esa rama del chatbot con la rama principal. Esto les da la libertad de equivocarse mil veces en el desarrollo sin que la página de CellRate se caiga ni un solo segundo.
+ssssssssssssssssssssss
